@@ -1,3 +1,15 @@
-# d3-react
-该项目为基于umi 框架整合《精通D3.js交互式数据可视化高级编程》这本书上的项目实例搭建并封装可视化图表库，并在此基础上进行图例扩展
+# umi project
 
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
